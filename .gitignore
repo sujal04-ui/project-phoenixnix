@@ -1,0 +1,11 @@
+# Termux / Linux
+*.log
+*.tmp
+*.swp
+.DS_Store
+
+# Secrets
+.env
+*.key
+*.pem
+secrets/
